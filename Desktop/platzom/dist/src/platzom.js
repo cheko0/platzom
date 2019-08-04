@@ -2,6 +2,7 @@
 
 // esto es una prueba para seguir aprendiendo
 //este es un comentario ppara agregar a egundaRama
+//no comprendo muy bien aun como funciona
 
 Object.defineProperty(exports, "__esModule", {
     value: true
